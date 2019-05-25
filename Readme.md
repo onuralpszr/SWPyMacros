@@ -14,6 +14,7 @@ This code shows how to call and run solidworks-api through python and use python
 - ["Macro-List"](#Macro-List)
 - [Contributing](#contributing)
 - [Contributors ](#Contributors)
+- [License](https://github.com/thunderbirdtr/SWPyMacros/blob/master/LICENSE)
 
 ## Installation
 
@@ -54,3 +55,6 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 * [Süleyman TÜRKOĞLU](https://github.com/suleymanturkoglu)
 * [Onuralp SEZER](https://github.com/thunderbirdtr)
 
+## License
+
+MIT
