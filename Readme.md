@@ -1,7 +1,7 @@
 # SW Python Macros
 
 <a href="https://github.com/python/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
-<a href="https://github.com/python/black/blob/master/LICENSE"><img alt="License: MIT" src="https://black.readthedocs.io/en/stable/_static/license.svg"></a>
+<a href="https://github.com/thunderbirdtr/SWPyMacros/blob/master/LICENSE"><img alt="License: MIT" src="https://black.readthedocs.io/en/stable/_static/license.svg"></a>
 <img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="made with python">
 
 🚧
@@ -52,8 +52,8 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 
 ## Contributors ✨
 
-* [Süleyman TÜRKOĞLU](https://github.com/suleymanturkoglu)
-* [Onuralp SEZER](https://github.com/thunderbirdtr)
+* [Süleyman TÜRKOĞLU](https://github.com/suleymanturkoglu) <a href="https://tr.linkedin.com/in/suleymanturkoglu"><img alt="linkedin" src="https://img.shields.io/badge/-linkedin-blue.svg"></a>
+* [Onuralp SEZER](https://github.com/thunderbirdtr) <a href="https://www.linkedin.com/in/osezer/"><img alt="linkedin" src="https://img.shields.io/badge/-linkedin-blue.svg"></a>
 
 ## License
 
