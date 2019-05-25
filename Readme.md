@@ -44,7 +44,7 @@ python hello_python_world.py
 ```
 
 <p align="center">
-<img width="800" height="auto" src="demos/hello_python_world.gif" loop=infinite />
+<img width=auto height="auto" src="demos/hello_python_world.gif" loop=infinite />
 </p>
 
 ## Macro List
