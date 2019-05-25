@@ -16,7 +16,7 @@ This code shows how to call and run solidworks-api through python and use python
 - [Contributors ](#Contributors)
 - [License](https://github.com/thunderbirdtr/SWPyMacros/blob/master/LICENSE)
 
-## Installation
+## Installation 📐
 
 * Requirements : Solidworks API, Python 3.7 (Tested on 3.7.3). This is only works on Windows
 
@@ -36,7 +36,7 @@ pipenv install
 pipenv shell 
 ```
 
-## Usage
+## Usage ⚙️
 
 ```sh
 # Make sure you're in virtualenv !
@@ -47,11 +47,11 @@ python hello_python_world.py
 <img width=auto height="auto" src="demos/hello_python_world.gif" loop=infinite />
 </p>
 
-## Macro List
+## Macro List 🔥
 
 - "Hello Python World" text and "rotating"
 
-## Contributing
+## Contributing ✔️ 
 
 Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
 
