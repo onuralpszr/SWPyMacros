@@ -39,7 +39,8 @@ pipenv shell
 ## Usage
 
 ```sh
-python solid.py
+# Make sure you're in virtualenv !
+python hello_python_world.py
 ```
 
 ## Macro List
@@ -56,5 +57,4 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 * [Onuralp SEZER](https://github.com/thunderbirdtr) <a href="https://www.linkedin.com/in/osezer/"><img alt="linkedin" src="https://img.shields.io/badge/-linkedin-blue.svg"></a>
 
 ## License
-
 MIT
