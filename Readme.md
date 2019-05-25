@@ -43,6 +43,9 @@ pipenv shell
 python hello_python_world.py
 ```
 
+![SW-Python Demo](demos/hello_python_world.gif)
+
+
 ## Macro List
 
 - "Hello Python World" text and "rotating"
