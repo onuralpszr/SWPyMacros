@@ -4,7 +4,6 @@ import asyncio
 import pythoncom
 import win32com.client
 import logging
-from enum import Enum
 import tkinter as tk
 from tkinter import *
 
