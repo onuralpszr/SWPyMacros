@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 pywin32 = "*"
 black = "==19.3b0"
+tkinter = "*"
 
 [requires]
 python_version = "3.7"
