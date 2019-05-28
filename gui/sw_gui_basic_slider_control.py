@@ -1,18 +1,13 @@
 import sys
 import time
-import asyncio
 import pythoncom
 import win32com.client
-import logging
 import tkinter as tk
 from tkinter import *
 
 # Solidworks Version (2019)
 swYearLastDigit = 9
-# Elapsed time
-elapsed = 0
-# Logging
-logging.basicConfig(level=logging.DEBUG)
+
 
 # Consts
 sw = win32com.client.Dispatch(
