@@ -49,8 +49,8 @@ python hello_python_world.py
 
 ## Macro List 🔥
 
-- hello_python_world.py "Hello Python World" text and "rotating"
-- gui/sw_gui_basic_slider_control.py "Basic python tkinter gui with creating cube and control D1 dimension via "slider" " 
+- hello_python_world.py (Hello Python World" text and "rotating)
+- gui/sw_gui_basic_slider_control.py (Basic python tkinter gui with creating cube and control D1 dimension via "slider")
 
 ## Contributing ✔️ 
 
