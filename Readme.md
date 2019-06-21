@@ -18,7 +18,7 @@ This code shows how to call and run solidworks-api through python and use python
 
 ## Installation 📐
 
-* Requirements : Solidworks API, Python 3.7 (Tested on 3.7.3). This is only works on Windows
+* Requirements : Solidworks API, Python 3.7 (Tested on 3.7.3). Only works on Windows
 
 1. Method
 
