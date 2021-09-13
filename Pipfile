@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-pywin32 = "*"
+pywin32 = ">=301
 black = "==19.3b0"
 tkinter = "*"
 
