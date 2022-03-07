@@ -5,17 +5,14 @@ import win32com.client
 import tkinter as tk
 from tkinter import *
 
-# Solidworks Version (2019)
-swYearLastDigit = 9
-
+# Solidworks Version (write the year) :
+SWV = 2022
+# API Version
+SWAV = SWV-1992
 
 # Consts
-sw = win32com.client.Dispatch(
-    "SldWorks.Application.{}".format((20 + (swYearLastDigit - 2)))
-)  # e.g. 20 is SW2012,  27 is SW2019
+sw = win32com.client.Dispatch("SldWorks.Application.{}".format(SWAV)) 
 sw.SetUserPreferenceToggle(1, False)
-SWAV = 20 + swYearLastDigit - 2
-SWV = 2010 + swYearLastDigit
 print(f" Solidworks API Version : {SWAV}", "\n", f"Solidworks Version : {SWV}")
 Model = sw.ActiveDoc
 
